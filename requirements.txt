@@ -1,0 +1,2 @@
+# Nessuna dipendenza runtime esterna richiesta per il parser MVP.
+# Per i test viene usato pytest (spesso già disponibile nell'ambiente).
